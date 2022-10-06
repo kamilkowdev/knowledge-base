@@ -3,8 +3,10 @@
 
 This project is a result of developing my skills in Bootstrap framework.
 
-# Used languages - HTML / Bootstrap / JS
+# Used languages 
+HTML / Bootstrap / JS
 
+# Link 
 https://kamilkowdev.github.io/knowledge-base/category.html
 
 ## Screenshots
